@@ -1,0 +1,19 @@
+{
+  "github.copilot.enable": {
+    "*": false
+  },
+
+  "editor.quickSuggestions": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.parameterHints.enabled": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.hover.enabled": false,
+  "editor.suggest.showKeywords": false,
+  "editor.suggest.showSnippets": false,
+
+  "javascript.suggest.enabled": false,
+  "typescript.suggest.enabled": false,
+  "javascript.suggest.autoImports": false,
+  "typescript.suggest.autoImports": false
+}
