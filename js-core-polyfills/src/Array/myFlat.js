@@ -1,5 +1,5 @@
 const arr = [3, 4, 5, 6, [4, 5, [2, 3, [9, 10, 22]]]];
-
+// flat takes depth as argument and returns a copy of array
 //const newArr = arr.flat(3);
 
 // Array.prototype.myFlat = function () {

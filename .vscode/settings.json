@@ -3,12 +3,16 @@
     "*": false
   },
 
-  "editor.quickSuggestions": false,
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off",
+    "other": "off"
+  },
   "editor.suggestOnTriggerCharacters": false,
   "editor.wordBasedSuggestions": "off",
   "editor.parameterHints.enabled": false,
   "editor.inlineSuggest.enabled": false,
-  "editor.hover.enabled": false,
+  "editor.hover.enabled": "off",
   "editor.suggest.showKeywords": false,
   "editor.suggest.showSnippets": false,
 
